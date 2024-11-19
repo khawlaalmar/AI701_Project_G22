@@ -27,7 +27,7 @@ The repository contains the following files and directories:
 - BERT Saved Model: Due to file size limitations, the saved BERT model is on Google Drive. Access it here: https://drive.google.com/drive/folders/1H6ZziJkkRokt_TBc3PVzMVYyAROvhpXC?usp=drive_link
 
 #### Datasets
-- Restaurant reviews.csv: Dataset used for the whole project. Obtained from: 
+- Restaurant reviews.csv: Dataset used for the whole project. Obtained from: https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews?resource=download
 - df_cleaned_bert.csv: Preprocessed dataset for BERT.
 
 ### Instructions to Run
