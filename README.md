@@ -28,7 +28,7 @@ The repository contains the following files and directories:
 
 #### Datasets
 - Restaurant reviews.csv: Dataset used for the whole project. Obtained from: https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews?resource=download
-- df_cleaned_bert.csv: Preprocessed dataset for BERT.
+- df_balanced.csv: Preprocessed dataset for BERT.
 
 ### Instructions to Run
 1. Download the Repository
